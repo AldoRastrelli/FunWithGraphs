@@ -1,0 +1,25 @@
+new node1
+new node2
+
+new node3
+
+kill node1
+
+new node4
+new node5
+new node6
+
+kill_leader
+
+new node7
+new node8
+
+kill node3
+kill node5
+
+new node9
+
+kill node4
+
+new node1
+new node3
